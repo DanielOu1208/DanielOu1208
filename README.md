@@ -1,9 +1,20 @@
 # Hi, I'm Daniel.
 
-I make AI agent workflows easier to supervise, safer to run, and nicer to use, mostly as native Apple apps and small terminal tools.
+**Apps**
+- [AeriVoice](https://aerivoice.app) — Mac dictation with AI cleanup
+- [AgentSlate](https://github.com/DanielOu1208/agentslate) — iPhone remote for coding agents on your Mac
+- [GhostNotch](https://github.com/DanielOu1208/GhostNotch) — a terminal in the MacBook notch
 
-On the Mac, [**AeriVoice**](https://aerivoice.app) is fast native dictation with configurable AI cleanup, and [**GhostNotch**](https://github.com/DanielOu1208/GhostNotch) turns the MacBook notch into a quick shell and agent launcher. [**AgentSlate**](https://github.com/DanielOu1208/agentslate) is an iPhone keypad for supervising the Herdr coding agents running on your Mac.
+**Agent tools**
+- [AgentVault](https://github.com/DanielOu1208/agent_vault) — keeps plaintext secrets away from agents
+- [DeepSeek Harness TUI](https://github.com/DanielOu1208/deepseek-harness-tui) — terminal UI for DeepSeek Harness
+- Skills: [Nothing Design](https://github.com/DanielOu1208/nothing-design-skill) · [Ultra Code Quality Review](https://github.com/DanielOu1208/ultra-code-quality-review)
 
-For the agents themselves, [**AgentVault**](https://github.com/DanielOu1208/agent_vault) is a local encrypted credential vault and MCP proxy that keeps plaintext secrets out of their reach, and [**DeepSeek Harness TUI**](https://github.com/DanielOu1208/deepseek-harness-tui) is a terminal interface for the official DeepSeek Harness. I also write agent skills, like [**Nothing Design**](https://github.com/DanielOu1208/nothing-design-skill) and [**Ultra Code Quality Review**](https://github.com/DanielOu1208/ultra-code-quality-review).
+**Latest releases**
+<!-- releases:start -->
+- [AeriVoice 0.2.2](https://github.com/DanielOu1208/aerivoice/releases/tag/v0.2.2) · 2026-10-01
+- [DeepSeek Harness TUI v0.1.0](https://github.com/DanielOu1208/deepseek-harness-tui/releases/tag/v0.1.0) · 2026-08-16
+- [AgentSlate 0.2.0](https://github.com/DanielOu1208/agentslate/releases/tag/v0.2.0) · 2026-08-08
+<!-- releases:end -->
 
-More at [danielou.dev](https://danielou.dev).
+[danielou.dev](https://danielou.dev)
