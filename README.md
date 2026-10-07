@@ -12,7 +12,8 @@
 
 **Latest releases**
 <!-- releases:start -->
-- [AeriVoice 0.2.3](https://github.com/DanielOu1208/aerivoice/releases/tag/v0.2.3) · 2026-10-06
+- [gray-chatgpt v0.1.0](https://github.com/DanielOu1208/gray-chatgpt/releases/tag/v0.1.0) · 2026-10-07
+- [AeriVoice 0.2.4](https://github.com/DanielOu1208/aerivoice/releases/tag/v0.2.4) · 2026-10-07
 - [DeepSeek Harness TUI v0.1.0](https://github.com/DanielOu1208/deepseek-harness-tui/releases/tag/v0.1.0) · 2026-08-16
 - [AgentSlate 0.2.0](https://github.com/DanielOu1208/agentslate/releases/tag/v0.2.0) · 2026-08-08
 <!-- releases:end -->
