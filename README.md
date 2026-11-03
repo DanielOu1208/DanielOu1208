@@ -12,6 +12,7 @@
 
 **Latest releases**
 <!-- releases:start -->
+- [Portals 0.1.2](https://github.com/DanielOu1208/portals/releases/tag/v0.1.2) · 2026-11-03
 - [AeriVoice 0.2.5](https://github.com/DanielOu1208/aerivoice/releases/tag/v0.2.5) · 2026-10-11
 - [gray-chatgpt v0.1.0](https://github.com/DanielOu1208/gray-chatgpt/releases/tag/v0.1.0) · 2026-10-07
 - [DeepSeek Harness TUI v0.1.0](https://github.com/DanielOu1208/deepseek-harness-tui/releases/tag/v0.1.0) · 2026-08-16
