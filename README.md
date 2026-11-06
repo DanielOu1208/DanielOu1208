@@ -12,9 +12,9 @@
 
 **Latest releases**
 <!-- releases:start -->
+- [Portals 0.1.3](https://github.com/DanielOu1208/portals/releases/tag/v0.1.3) · 2026-11-05
 - [droid-external-models v0.8.0](https://github.com/DanielOu1208/droid-external-models/releases/tag/v0.8.0) · 2026-11-04
 - [AeriVoice 0.2.6](https://github.com/DanielOu1208/aerivoice/releases/tag/v0.2.6) · 2026-11-03
-- [Portals 0.1.2](https://github.com/DanielOu1208/portals/releases/tag/v0.1.2) · 2026-11-03
 - [gray-chatgpt v0.1.0](https://github.com/DanielOu1208/gray-chatgpt/releases/tag/v0.1.0) · 2026-10-07
 - [DeepSeek Harness TUI v0.1.0](https://github.com/DanielOu1208/deepseek-harness-tui/releases/tag/v0.1.0) · 2026-08-16
 <!-- releases:end -->
